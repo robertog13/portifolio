@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Red+Hat+Mono:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+
+h1 {
+    color: #DBF227;
+    font-family:'Lobster', cursive;
+}
+
+h2 {
+    color:#9FC131;
+    font-family:'Lobster', cursive;
+   
+}
+
+body {
+    background-color:#042940;
+}
+#picture-rob {
+    border-radius: 100%
+}
+p ,a, ul li{
+    color: #D6D58E;
+    font-family:'DM Sans', sans-serif;
+}
+#descrição-roberto{
+    position: absolute;
+    width: 500px;
+    left: 350px;
+    top: 250px;
+}
+#trybe-log{
+    position: absolute;
+    top: 30px;
+    left: 300px;
+}
